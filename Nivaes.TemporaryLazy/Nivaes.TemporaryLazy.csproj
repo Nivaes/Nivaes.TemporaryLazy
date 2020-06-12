@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <PackageId>Nivaes.TemporaryLazy</PackageId>
+    <Title>Nivaes TemporaryLazy</Title>
+    <AssemblyName>Nivaes.TemporaryLazy</AssemblyName>
+    <RootNamespace>Nivaes.TemporaryLazy</RootNamespace>
+    <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
+    <Product>Async utils</Product>
+    <Description>Async utrils.</Description>
+    <PackageTags>Nivaes;Lazy;TemporaryLazy</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Images\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+  
+</Project>
