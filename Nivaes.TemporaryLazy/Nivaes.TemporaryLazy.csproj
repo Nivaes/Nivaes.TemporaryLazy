@@ -8,7 +8,7 @@
     <RootNamespace>Nivaes.TemporaryLazy</RootNamespace>
     <GeneratePackageOnBuild Condition="'$(Configuration)' == 'Release'">true</GeneratePackageOnBuild>
     <Product>Async utils</Product>
-    <Description>Async utrils.</Description>
+    <Description>TemporaryLazy utrils.</Description>
     <PackageTags>Nivaes;Lazy;TemporaryLazy</PackageTags>
   </PropertyGroup>
 
