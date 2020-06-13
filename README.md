@@ -4,4 +4,4 @@ TemporaryLazy
 
 ### Actions
 
-![ContinuousIntegration](https://github.com/Nivaes/Nivaes.TemporaryLazy/workflows/ContinuousIntegration/badge.svg)
+![integration](https://github.com/Nivaes/Nivaes.TemporaryLazy/workflows/integration/badge.svg)
